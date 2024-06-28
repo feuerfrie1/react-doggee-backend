@@ -5,3 +5,6 @@ The messages "Server OK" and "DB OK" mean there are no errors and the server is 
 ## Available Scripts
 
 ### `npm start:dev`
+
+Runs the app in the development mode.
+Open http://localhost:4444 to view it in the browser.
